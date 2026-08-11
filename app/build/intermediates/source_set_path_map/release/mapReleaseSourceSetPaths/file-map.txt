@@ -1,0 +1,15 @@
+com.voltrigger.app-tracing-1.2.0-0 /home/prince/.gradle/caches/9.4.0/transforms/2523ef5cb91d3f785e5b3dc0ad463e64/transformed/tracing-1.2.0/res
+com.voltrigger.app-core-1.15.0-1 /home/prince/.gradle/caches/9.4.0/transforms/3463dc98f043a001b471c9f9167fd808/transformed/core-1.15.0/res
+com.voltrigger.app-lifecycle-runtime-2.6.2-2 /home/prince/.gradle/caches/9.4.0/transforms/82d9aa7142ef65656bf25c8ccdab29dc/transformed/lifecycle-runtime-2.6.2/res
+com.voltrigger.app-profileinstaller-1.3.0-3 /home/prince/.gradle/caches/9.4.0/transforms/a584d92f013ff018020cb4ef27f54d52/transformed/profileinstaller-1.3.0/res
+com.voltrigger.app-startup-runtime-1.1.1-4 /home/prince/.gradle/caches/9.4.0/transforms/b741f2f98aa3e3625769dbf449579f13/transformed/startup-runtime-1.1.1/res
+com.voltrigger.app-annotation-experimental-1.4.1-5 /home/prince/.gradle/caches/9.4.0/transforms/c2a84250e5c66d043f6a2ff001ffaef5/transformed/annotation-experimental-1.4.1/res
+com.voltrigger.app-core-runtime-2.2.0-6 /home/prince/.gradle/caches/9.4.0/transforms/f69b3a9ea5dab0e47c6949745ded52e0/transformed/core-runtime-2.2.0/res
+com.voltrigger.app-pngs-7 /home/prince/ProjectsMain/Akr-Volume trigger/app/build/generated/res/pngs/release
+com.voltrigger.app-resValues-8 /home/prince/ProjectsMain/Akr-Volume trigger/app/build/generated/res/resValues/release
+com.voltrigger.app-packageReleaseResources-9 /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.voltrigger.app-packageReleaseResources-10 /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.voltrigger.app-merged-not-compiled-resources-11 /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/merged-not-compiled-resources/release
+com.voltrigger.app-release-12 /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/merged_res/release/mergeReleaseResources
+com.voltrigger.app-main-13 /home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/res
+com.voltrigger.app-release-14 /home/prince/ProjectsMain/Akr-Volume trigger/app/src/release/res

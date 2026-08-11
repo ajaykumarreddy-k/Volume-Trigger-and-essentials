@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="widget_bg">#CC1E1E2E</color>
+    <color name="widget_icon_tint">#FFFFFF</color>
+    <string name="app_name">Vol-Trigger</string>
+    <string name="vol_down_content_desc">Volume Down</string>
+    <string name="vol_up_content_desc">Volume Up</string>
+    <string name="widget_down_label">Vol -</string>
+    <string name="widget_up_label">Vol +</string>
+</resources>

@@ -1,0 +1,70 @@
+com.voltrigger.VolReceiver
+androidx.annotation.Keep
+com.voltrigger.VolWidgetDown
+androidx.core.app.RemoteActionCompat
+androidx.core.graphics.drawable.IconCompat
+androidx.profileinstaller.ProfileInstallerInitializer
+androidx.startup.InitializationProvider
+android.support.v4.app.RemoteActionCompatParcelizer
+androidx.profileinstaller.ProfileInstallReceiver
+androidx.lifecycle.ReflectiveGenericLifecycleObserver
+com.voltrigger.VolTileUpService
+androidx.core.app.RemoteActionCompatParcelizer
+android.support.v4.graphics.drawable.IconCompatParcelizer
+androidx.core.app.CoreComponentFactory
+androidx.lifecycle.DefaultLifecycleObserverAdapter
+androidx.versionedparcelable.CustomVersionedParcelable
+androidx.core.graphics.drawable.IconCompatParcelizer
+androidx.lifecycle.LifecycleCoroutineScopeImpl
+com.voltrigger.VolWidgetUp
+androidx.lifecycle.CompositeGeneratedAdaptersObserver
+com.voltrigger.VolWidget
+androidx.lifecycle.SingleGeneratedAdapterObserver
+androidx.versionedparcelable.ParcelImpl
+com.voltrigger.VolTileDownService
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: androidx.concurrent.futures.AbstractResolvableFuture$Waiter next
+com.voltrigger.VolReceiver: java.lang.String ACTION_VOL_DOWN
+com.voltrigger.VolReceiver: java.lang.String ACTION_VOL_UP
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+com.voltrigger.VolReceiver: com.voltrigger.VolReceiver$Companion Companion
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Waiter waiters
+androidx.concurrent.futures.AbstractResolvableFuture: java.lang.Object value
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: java.lang.Thread thread
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Listener listeners
+com.voltrigger.VolTileDownService: void onClick()
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+androidx.core.app.RemoteActionCompat: RemoteActionCompat()
+androidx.versionedparcelable.CustomVersionedParcelable: CustomVersionedParcelable()
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.profileinstaller.ProfileInstallReceiver: ProfileInstallReceiver()
+androidx.profileinstaller.ProfileInstallerInitializer: ProfileInstallerInitializer()
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+com.voltrigger.VolTileDownService: VolTileDownService()
+com.voltrigger.VolTileUpService: void onClick()
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+com.voltrigger.VolWidgetUp: void onUpdate(android.content.Context,android.appwidget.AppWidgetManager,int[])
+com.voltrigger.VolWidget: void onUpdate(android.content.Context,android.appwidget.AppWidgetManager,int[])
+androidx.startup.InitializationProvider: InitializationProvider()
+androidx.profileinstaller.ProfileVerifier$Api33Impl: android.content.pm.PackageInfo getPackageInfo(android.content.pm.PackageManager,android.content.Context)
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+androidx.profileinstaller.ProfileInstallerInitializer$Handler28Impl: android.os.Handler createAsync(android.os.Looper)
+androidx.tracing.TraceApi29Impl: boolean isEnabled()
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+com.voltrigger.VolWidgetDown: VolWidgetDown()
+com.voltrigger.VolWidget: VolWidget()
+com.voltrigger.VolReceiver: VolReceiver()
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType[] values()
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType valueOf(java.lang.String)
+com.voltrigger.VolReceiver: void onReceive(android.content.Context,android.content.Intent)
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+com.voltrigger.VolWidgetDown: void onUpdate(android.content.Context,android.appwidget.AppWidgetManager,int[])
+androidx.profileinstaller.ProfileInstallerInitializer$Choreographer16Impl: void postFrameCallback(java.lang.Runnable)
+androidx.core.graphics.drawable.IconCompat: IconCompat()
+com.voltrigger.VolWidgetUp: VolWidgetUp()
+com.voltrigger.VolTileUpService: VolTileUpService()
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)

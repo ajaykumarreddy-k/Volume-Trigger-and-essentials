@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color widget_bg
+color widget_icon_tint
+drawable bg_black_round
+drawable bg_white_round
+drawable bg_widget_button
+drawable ic_app_logo
+drawable ic_btn_minus
+drawable ic_btn_plus
+drawable ic_logo
+drawable ic_logo_card
+drawable ic_tile_vol_down
+drawable ic_tile_vol_up
+drawable ic_vol_down
+drawable ic_vol_up
+id btn_down
+id btn_up
+id btn_vol_down
+id btn_vol_up
+id logo_card
+layout widget_down
+layout widget_up
+layout widget_volume
+string app_name
+string vol_down_content_desc
+string vol_up_content_desc
+string widget_down_label
+string widget_up_label
+xml widget_down_info
+xml widget_up_info
+xml widget_volume_info

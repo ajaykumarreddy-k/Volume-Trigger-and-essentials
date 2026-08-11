@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.voltrigger.app-mergeReleaseResources-9:/values-nl/values-nl.xml",
+            "map": [
+                {
+                    "source": "/home/prince/.gradle/caches/9.4.0/transforms/3463dc98f043a001b471c9f9167fd808/transformed/core-1.15.0/res/values-nl/values-nl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,259,359,459,566,670,789",
+                        "endColumns": "101,101,99,99,106,103,118,100",
+                        "endOffsets": "152,254,354,454,561,665,784,885"
+                    }
+                }
+            ]
+        }
+    ]
+}

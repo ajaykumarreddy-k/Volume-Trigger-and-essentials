@@ -1,0 +1,6 @@
+-keep class com.voltrigger.VolReceiver { *; }
+-keep class com.voltrigger.VolWidget { *; }
+-keep class com.voltrigger.VolWidgetUp { *; }
+-keep class com.voltrigger.VolWidgetDown { *; }
+-keep class com.voltrigger.VolTileUpService { *; }
+-keep class com.voltrigger.VolTileDownService { *; }
