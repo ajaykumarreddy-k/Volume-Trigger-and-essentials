@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingHorizontal="16dp"
+    android:paddingVertical="20dp"
+    android:background="@android:color/transparent">
+
+    <!-- Volume Control -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:id="@+id/btn_vol_down"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:padding="12dp"
+            android:background="@drawable/bg_tile_circle"
+            android:src="@drawable/ic_tile_vol_down"
+            android:tint="@android:color/white" />
+
+        <ProgressBar
+            android:id="@+id/progress_volume"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="0dp"
+            android:layout_height="24dp"
+            android:layout_weight="1"
+            android:layout_marginHorizontal="16dp"
+            android:max="100"
+            android:progress="50"
+            android:progressDrawable="@drawable/custom_progress_bar" />
+
+        <ImageView
+            android:id="@+id/btn_vol_up"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:padding="12dp"
+            android:background="@drawable/bg_tile_circle"
+            android:src="@drawable/ic_tile_vol_up"
+            android:tint="@android:color/white" />
+    </LinearLayout>
+
+    <!-- Orientation Toggles -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="24dp">
+
+        <TextView
+            android:id="@+id/btn_orient_portrait"
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:layout_weight="1"
+            android:text="PORT"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:textSize="13sp"
+            android:gravity="center"
+            android:background="@drawable/bg_notification_button"
+            android:layout_marginEnd="6dp" />
+            
+        <TextView
+            android:id="@+id/btn_orient_land_right"
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:layout_weight="1"
+            android:text="LAND R"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:textSize="13sp"
+            android:gravity="center"
+            android:background="@drawable/bg_notification_button"
+            android:layout_marginEnd="6dp" />
+            
+        <TextView
+            android:id="@+id/btn_orient_land_left"
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:layout_weight="1"
+            android:text="LAND L"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:textSize="13sp"
+            android:gravity="center"
+            android:background="@drawable/bg_notification_button"
+            android:layout_marginEnd="6dp" />
+            
+        <TextView
+            android:id="@+id/btn_orient_upside"
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:layout_weight="1"
+            android:text="UP DN"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:textSize="13sp"
+            android:gravity="center"
+            android:background="@drawable/bg_notification_button" />
+    </LinearLayout>
+
+    <!-- Quick Tiles -->
+    <LinearLayout
+        android:id="@+id/container_quick_tiles"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="24dp">
+        
+        <ImageView
+            android:id="@+id/btn_tile_flashlight"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_marginHorizontal="12dp"
+            android:background="@drawable/bg_tile_circle"
+            android:src="@drawable/ic_tile_flashlight"
+            android:padding="16dp"
+            android:tint="@android:color/white" />
+            
+        <ImageView
+            android:id="@+id/btn_tile_dnd"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_marginHorizontal="12dp"
+            android:background="@drawable/bg_tile_circle"
+            android:src="@drawable/ic_tile_dnd"
+            android:padding="16dp"
+            android:tint="@android:color/white" />
+            
+        <ImageView
+            android:id="@+id/btn_tile_rotation_lock"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_marginHorizontal="12dp"
+            android:background="@drawable/bg_tile_circle"
+            android:src="@drawable/ic_tile_rotation"
+            android:padding="16dp"
+            android:tint="@android:color/white" />
+    </LinearLayout>
+</LinearLayout>

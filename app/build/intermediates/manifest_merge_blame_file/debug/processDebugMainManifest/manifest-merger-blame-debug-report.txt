@@ -1,0 +1,395 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.voltrigger"
+4    android:versionCode="2"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
+11-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:4:5-85
+11-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:4:22-82
+12    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+12-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:5:5-73
+12-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:5:22-70
+13    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+13-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:6:5-77
+13-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:6:22-74
+14    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+14-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:7:5-77
+14-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:7:22-74
+15    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+15-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:8:5-92
+15-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:8:22-89
+16    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_SPECIAL_USE" />
+16-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:9:5-89
+16-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:9:22-86
+17
+18    <permission
+18-->[androidx.core:core:1.15.0] /home/prince/.gradle/caches/9.4.0/transforms/341bac73314694d8653051cb0c48b58e/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+19        android:name="com.voltrigger.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+19-->[androidx.core:core:1.15.0] /home/prince/.gradle/caches/9.4.0/transforms/341bac73314694d8653051cb0c48b58e/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+20        android:protectionLevel="signature" />
+20-->[androidx.core:core:1.15.0] /home/prince/.gradle/caches/9.4.0/transforms/341bac73314694d8653051cb0c48b58e/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+21
+22    <uses-permission android:name="com.voltrigger.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+22-->[androidx.core:core:1.15.0] /home/prince/.gradle/caches/9.4.0/transforms/341bac73314694d8653051cb0c48b58e/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+22-->[androidx.core:core:1.15.0] /home/prince/.gradle/caches/9.4.0/transforms/341bac73314694d8653051cb0c48b58e/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+23
+24    <application
+24-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:11:5-167:19
+25        android:allowBackup="true"
+25-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:12:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.15.0] /home/prince/.gradle/caches/9.4.0/transforms/341bac73314694d8653051cb0c48b58e/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
+27        android:debuggable="true"
+28        android:extractNativeLibs="false"
+29        android:icon="@drawable/ic_app_logo"
+29-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:13:9-45
+30        android:label="@string/app_name"
+30-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:14:9-41
+31        android:supportsRtl="true"
+31-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:15:9-35
+32        android:theme="@android:style/Theme.DeviceDefault" >
+32-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:16:9-59
+33        <receiver
+33-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:18:9-20:40
+34            android:name="com.voltrigger.VolReceiver"
+34-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:19:13-40
+35            android:exported="false" />
+35-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:20:13-37
+36        <receiver
+36-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:22:9-32:20
+37            android:name="com.voltrigger.VolWidget"
+37-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:23:13-38
+38            android:exported="true"
+38-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:25:13-36
+39            android:label="@string/app_name" >
+39-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:24:13-45
+40            <intent-filter>
+40-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:26:13-28:29
+41                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+41-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:27:17-84
+41-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:27:25-81
+42            </intent-filter>
+43
+44            <meta-data
+44-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:29:13-31:62
+45                android:name="android.appwidget.provider"
+45-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:30:17-58
+46                android:resource="@xml/widget_volume_info" />
+46-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:31:17-59
+47        </receiver>
+48        <receiver
+48-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:34:9-44:20
+49            android:name="com.voltrigger.VolWidgetUp"
+49-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:35:13-40
+50            android:exported="true"
+50-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:37:13-36
+51            android:label="@string/widget_up_label" >
+51-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:36:13-52
+52            <intent-filter>
+52-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:26:13-28:29
+53                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+53-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:27:17-84
+53-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:27:25-81
+54            </intent-filter>
+55
+56            <meta-data
+56-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:29:13-31:62
+57                android:name="android.appwidget.provider"
+57-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:30:17-58
+58                android:resource="@xml/widget_up_info" />
+58-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:31:17-59
+59        </receiver>
+60        <receiver
+60-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:46:9-56:20
+61            android:name="com.voltrigger.VolWidgetDown"
+61-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:47:13-42
+62            android:exported="true"
+62-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:49:13-36
+63            android:label="@string/widget_down_label" >
+63-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:48:13-54
+64            <intent-filter>
+64-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:26:13-28:29
+65                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+65-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:27:17-84
+65-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:27:25-81
+66            </intent-filter>
+67
+68            <meta-data
+68-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:29:13-31:62
+69                android:name="android.appwidget.provider"
+69-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:30:17-58
+70                android:resource="@xml/widget_down_info" />
+70-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:31:17-59
+71        </receiver>
+72
+73        <!-- Quick Settings Notification Panel Tiles -->
+74        <service
+74-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:59:9-68:19
+75            android:name="com.voltrigger.VolTileUpService"
+75-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:60:13-45
+76            android:exported="true"
+76-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:64:13-36
+77            android:icon="@drawable/ic_tile_vol_up"
+77-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:61:13-52
+78            android:label="@string/widget_up_label"
+78-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:62:13-52
+79            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" >
+79-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:63:13-77
+80            <intent-filter>
+80-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:65:13-67:29
+81                <action android:name="android.service.quicksettings.action.QS_TILE" />
+81-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:66:17-87
+81-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:66:25-84
+82            </intent-filter>
+83        </service>
+84        <service
+84-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:70:9-79:19
+85            android:name="com.voltrigger.VolTileDownService"
+85-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:71:13-47
+86            android:exported="true"
+86-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:75:13-36
+87            android:icon="@drawable/ic_tile_vol_down"
+87-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:72:13-54
+88            android:label="@string/widget_down_label"
+88-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:73:13-54
+89            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" >
+89-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:74:13-77
+90            <intent-filter>
+90-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:65:13-67:29
+91                <action android:name="android.service.quicksettings.action.QS_TILE" />
+91-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:66:17-87
+91-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:66:25-84
+92            </intent-filter>
+93        </service>
+94
+95        <activity
+95-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:81:9-89:20
+96            android:name="com.voltrigger.MainActivity"
+96-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:82:13-41
+97            android:exported="true"
+97-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:83:13-36
+98            android:theme="@android:style/Theme.DeviceDefault.NoActionBar" >
+98-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:84:13-75
+99            <intent-filter>
+99-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:85:13-88:29
+100                <action android:name="android.intent.action.MAIN" />
+100-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:86:17-69
+100-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:86:25-66
+101
+102                <category android:name="android.intent.category.LAUNCHER" />
+102-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:87:17-77
+102-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:87:27-74
+103            </intent-filter>
+104        </activity>
+105        <activity
+105-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:91:9-94:75
+106            android:name="com.voltrigger.ui.QuickNoteActivity"
+106-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:92:13-49
+107            android:exported="false"
+107-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:93:13-37
+108            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+108-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:94:13-72
+109
+110        <service
+110-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:96:9-105:19
+111            android:name="com.voltrigger.tiles.DigitalWellbeingTileService"
+111-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:97:13-62
+112            android:exported="true"
+112-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:101:13-36
+113            android:icon="@drawable/ic_tile_wellbeing"
+113-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:98:13-55
+114            android:label="Digital Wellbeing"
+114-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:99:13-46
+115            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" >
+115-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:100:13-77
+116            <intent-filter>
+116-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:65:13-67:29
+117                <action android:name="android.service.quicksettings.action.QS_TILE" />
+117-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:66:17-87
+117-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:66:25-84
+118            </intent-filter>
+119        </service>
+120        <service
+120-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:107:9-116:19
+121            android:name="com.voltrigger.tiles.GithubProfileTileService"
+121-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:108:13-59
+122            android:exported="true"
+122-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:112:13-36
+123            android:icon="@drawable/ic_tile_github"
+123-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:109:13-52
+124            android:label="GitHub Profile"
+124-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:110:13-43
+125            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" >
+125-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:111:13-77
+126            <intent-filter>
+126-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:65:13-67:29
+127                <action android:name="android.service.quicksettings.action.QS_TILE" />
+127-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:66:17-87
+127-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:66:25-84
+128            </intent-filter>
+129        </service>
+130        <service
+130-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:118:9-127:19
+131            android:name="com.voltrigger.tiles.FlashlightTileService"
+131-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:119:13-56
+132            android:exported="true"
+132-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:123:13-36
+133            android:icon="@drawable/ic_tile_flashlight"
+133-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:120:13-56
+134            android:label="Flashlight"
+134-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:121:13-39
+135            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" >
+135-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:122:13-77
+136            <intent-filter>
+136-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:65:13-67:29
+137                <action android:name="android.service.quicksettings.action.QS_TILE" />
+137-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:66:17-87
+137-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:66:25-84
+138            </intent-filter>
+139        </service>
+140        <service
+140-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:129:9-138:19
+141            android:name="com.voltrigger.tiles.DndToggleTileService"
+141-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:130:13-55
+142            android:exported="true"
+142-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:134:13-36
+143            android:icon="@drawable/ic_tile_dnd"
+143-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:131:13-49
+144            android:label="Do Not Disturb"
+144-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:132:13-43
+145            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" >
+145-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:133:13-77
+146            <intent-filter>
+146-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:65:13-67:29
+147                <action android:name="android.service.quicksettings.action.QS_TILE" />
+147-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:66:17-87
+147-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:66:25-84
+148            </intent-filter>
+149        </service>
+150        <service
+150-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:140:9-149:19
+151            android:name="com.voltrigger.tiles.QuickNoteTileService"
+151-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:141:13-55
+152            android:exported="true"
+152-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:145:13-36
+153            android:icon="@drawable/ic_tile_quick_note"
+153-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:142:13-56
+154            android:label="Quick Note"
+154-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:143:13-39
+155            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" >
+155-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:144:13-77
+156            <intent-filter>
+156-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:65:13-67:29
+157                <action android:name="android.service.quicksettings.action.QS_TILE" />
+157-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:66:17-87
+157-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:66:25-84
+158            </intent-filter>
+159        </service>
+160        <service
+160-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:151:9-160:19
+161            android:name="com.voltrigger.tiles.RotationLockTileService"
+161-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:152:13-58
+162            android:exported="true"
+162-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:156:13-36
+163            android:icon="@drawable/ic_tile_rotation"
+163-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:153:13-54
+164            android:label="Rotation Lock"
+164-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:154:13-42
+165            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" >
+165-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:155:13-77
+166            <intent-filter>
+166-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:65:13-67:29
+167                <action android:name="android.service.quicksettings.action.QS_TILE" />
+167-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:66:17-87
+167-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:66:25-84
+168            </intent-filter>
+169        </service>
+170        <service
+170-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:162:9-165:40
+171            android:name="com.voltrigger.services.ControlNotificationService"
+171-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:163:13-64
+172            android:exported="false"
+172-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:165:13-37
+173            android:foregroundServiceType="specialUse" />
+173-->/home/prince/ProjectsMain/Akr-Volume trigger/app/src/main/AndroidManifest.xml:164:13-55
+174
+175        <activity
+175-->[androidx.compose.ui:ui-tooling-android:1.6.2] /home/prince/.gradle/caches/9.4.0/transforms/00141a22b5e1cb7d84b1a2644cf33cc2/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+176            android:name="androidx.compose.ui.tooling.PreviewActivity"
+176-->[androidx.compose.ui:ui-tooling-android:1.6.2] /home/prince/.gradle/caches/9.4.0/transforms/00141a22b5e1cb7d84b1a2644cf33cc2/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+177            android:exported="true" />
+177-->[androidx.compose.ui:ui-tooling-android:1.6.2] /home/prince/.gradle/caches/9.4.0/transforms/00141a22b5e1cb7d84b1a2644cf33cc2/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+178
+179        <provider
+179-->[androidx.emoji2:emoji2:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/d655367db8635279b22a50e5279296fc/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+180            android:name="androidx.startup.InitializationProvider"
+180-->[androidx.emoji2:emoji2:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/d655367db8635279b22a50e5279296fc/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+181            android:authorities="com.voltrigger.androidx-startup"
+181-->[androidx.emoji2:emoji2:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/d655367db8635279b22a50e5279296fc/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+182            android:exported="false" >
+182-->[androidx.emoji2:emoji2:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/d655367db8635279b22a50e5279296fc/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+183            <meta-data
+183-->[androidx.emoji2:emoji2:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/d655367db8635279b22a50e5279296fc/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+184                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+184-->[androidx.emoji2:emoji2:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/d655367db8635279b22a50e5279296fc/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+185                android:value="androidx.startup" />
+185-->[androidx.emoji2:emoji2:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/d655367db8635279b22a50e5279296fc/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+186            <meta-data
+186-->[androidx.lifecycle:lifecycle-process:2.7.0] /home/prince/.gradle/caches/9.4.0/transforms/f8936fd8c1d5e0851a5efeeeddede5a7/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+187                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+187-->[androidx.lifecycle:lifecycle-process:2.7.0] /home/prince/.gradle/caches/9.4.0/transforms/f8936fd8c1d5e0851a5efeeeddede5a7/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+188                android:value="androidx.startup" />
+188-->[androidx.lifecycle:lifecycle-process:2.7.0] /home/prince/.gradle/caches/9.4.0/transforms/f8936fd8c1d5e0851a5efeeeddede5a7/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+189            <meta-data
+189-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/a327b827cc02d550a8550c4ce330a69a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+190                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+190-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/a327b827cc02d550a8550c4ce330a69a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+191                android:value="androidx.startup" />
+191-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/a327b827cc02d550a8550c4ce330a69a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+192        </provider>
+193
+194        <receiver
+194-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/a327b827cc02d550a8550c4ce330a69a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+195            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+195-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/a327b827cc02d550a8550c4ce330a69a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+196            android:directBootAware="false"
+196-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/a327b827cc02d550a8550c4ce330a69a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+197            android:enabled="true"
+197-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/a327b827cc02d550a8550c4ce330a69a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+198            android:exported="true"
+198-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/a327b827cc02d550a8550c4ce330a69a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+199            android:permission="android.permission.DUMP" >
+199-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/a327b827cc02d550a8550c4ce330a69a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+200            <intent-filter>
+200-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/a327b827cc02d550a8550c4ce330a69a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+201                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+201-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/a327b827cc02d550a8550c4ce330a69a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+201-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/a327b827cc02d550a8550c4ce330a69a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+202            </intent-filter>
+203            <intent-filter>
+203-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/a327b827cc02d550a8550c4ce330a69a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+204                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+204-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/a327b827cc02d550a8550c4ce330a69a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+204-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/a327b827cc02d550a8550c4ce330a69a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+205            </intent-filter>
+206            <intent-filter>
+206-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/a327b827cc02d550a8550c4ce330a69a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+207                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+207-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/a327b827cc02d550a8550c4ce330a69a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+207-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/a327b827cc02d550a8550c4ce330a69a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+208            </intent-filter>
+209            <intent-filter>
+209-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/a327b827cc02d550a8550c4ce330a69a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+210                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+210-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/a327b827cc02d550a8550c4ce330a69a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+210-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/prince/.gradle/caches/9.4.0/transforms/a327b827cc02d550a8550c4ce330a69a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+211            </intent-filter>
+212        </receiver>
+213    </application>
+214
+215</manifest>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_black_round"
+    android:orientation="horizontal"
+    android:padding="12dp">
+
+    <!-- Left Logo Card -->
+    <ImageView
+        android:id="@+id/logo_card"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1.8"
+        android:layout_marginEnd="10dp"
+        android:adjustViewBounds="true"
+        android:contentDescription="@string/app_name"
+        android:scaleType="fitCenter"
+        android:src="@drawable/ic_logo_card" />
+
+    <!-- Right Column (+ / - Buttons) -->
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <!-- Vol Up (+) Button -->
+        <ImageView
+            android:id="@+id/btn_up"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_marginBottom="5dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/vol_up_content_desc"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_btn_plus" />
+
+        <!-- Vol Down (-) Button -->
+        <ImageView
+            android:id="@+id/btn_down"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/vol_down_content_desc"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_btn_minus" />
+
+    </LinearLayout>
+
+</LinearLayout>

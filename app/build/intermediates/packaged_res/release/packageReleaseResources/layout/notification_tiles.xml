@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:background="@drawable/bg_notification_grey"
+        android:paddingVertical="16dp"
+        android:paddingHorizontal="16dp">
+        
+        <ImageView
+            android:id="@+id/btn_tile_flashlight"
+            android:layout_width="0dp"
+            android:layout_height="56dp"
+            android:layout_weight="1"
+            android:layout_marginHorizontal="4dp"
+            android:background="@drawable/bg_notification_button"
+            android:src="@drawable/ic_tile_flashlight"
+            android:padding="16dp"
+            android:tint="#C1C1C1" />
+            
+        <ImageView
+            android:id="@+id/btn_tile_dnd"
+            android:layout_width="0dp"
+            android:layout_height="56dp"
+            android:layout_weight="1"
+            android:layout_marginHorizontal="4dp"
+            android:background="@drawable/bg_notification_button"
+            android:src="@drawable/ic_tile_dnd"
+            android:padding="16dp"
+            android:tint="#C1C1C1" />
+            
+        <ImageView
+            android:id="@+id/btn_tile_rotation_lock"
+            android:layout_width="0dp"
+            android:layout_height="56dp"
+            android:layout_weight="1"
+            android:layout_marginHorizontal="4dp"
+            android:background="@drawable/bg_notification_button"
+            android:src="@drawable/ic_tile_rotation"
+            android:padding="16dp"
+            android:tint="#C1C1C1" />
+            
+        <ImageView
+            android:id="@+id/btn_tile_wellbeing"
+            android:layout_width="0dp"
+            android:layout_height="56dp"
+            android:layout_weight="1"
+            android:layout_marginHorizontal="4dp"
+            android:background="@drawable/bg_notification_button"
+            android:src="@drawable/ic_tile_wellbeing"
+            android:padding="16dp"
+            android:tint="#C1C1C1" />
+            
+        <ImageView
+            android:id="@+id/btn_tile_github"
+            android:layout_width="0dp"
+            android:layout_height="56dp"
+            android:layout_weight="1"
+            android:layout_marginHorizontal="4dp"
+            android:background="@drawable/bg_notification_button"
+            android:src="@drawable/ic_tile_github"
+            android:padding="16dp"
+            android:tint="#C1C1C1" />
+    </LinearLayout>
+</LinearLayout>

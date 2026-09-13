@@ -1,12 +1,104 @@
-Marking layout:widget_volume:2131165195 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:btn_up:2131034153 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:btn_down:2131034152 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:widget_up:2131165194 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:btn_vol_up:2131034155 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:widget_down:2131165193 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:btn_vol_down:2131034154 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:tab:2131230801 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:switch_role:2131230800 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:widget_up:2131165198 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:btn_vol_up:2131034165 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:tag_on_apply_window_listener:2131034197 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:tag_window_insets_animation_callback:2131034205 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:inspection_slot_table_set:2131034178 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:default_popup_window_title:2131230732 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:view_tree_lifecycle_owner:2131034210 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:view_tree_view_model_store_owner:2131034213 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:view_tree_saved_state_registry_owner:2131034212 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:compose_view_saveable_id_tag:2131034167 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:androidx_compose_ui_view_composition_context:2131034150 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:alpha:2130771968 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:lStar:2130771981 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:tag_unhandled_key_listeners:2131034204 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:wrapped_composition_tag:2131034214 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:tag_unhandled_key_event_manager:2131034203 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:widget_volume:2131165199 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:btn_up:2131034163 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:btn_down:2131034153 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:hide_in_inspector_tag:2131034174 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:default_error_message:2131230731 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_0:2131034113 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_1:2131034114 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_2:2131034125 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_3:2131034136 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_4:2131034139 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_5:2131034140 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_6:2131034141 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_7:2131034142 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_8:2131034143 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_9:2131034144 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_10:2131034115 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_11:2131034116 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_12:2131034117 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_13:2131034118 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_14:2131034119 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_15:2131034120 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_16:2131034121 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_17:2131034122 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_18:2131034123 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_19:2131034124 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_20:2131034126 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_21:2131034127 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_22:2131034128 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_23:2131034129 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_24:2131034130 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_25:2131034131 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_26:2131034132 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_27:2131034133 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_28:2131034134 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_29:2131034135 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_30:2131034137 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_custom_action_31:2131034138 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:indeterminate:2131230735 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:off:2131230794 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:on:2131230795 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:selected:2131230798 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:not_selected:2131230793 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:template_percent:2131230802 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:in_progress:2131230734 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking string:androidx_startup:2131230720 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-@attr/alpha : reachable=false
+Marking id:consume_window_insets_tag:2131034168 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:tag_screen_reader_focusable:2131034200 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:tag_accessibility_heading:2131034195 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:tag_accessibility_pane_title:2131034196 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:tag_state_description:2131034201 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:tag_accessibility_clickable_spans:2131034194 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_action_clickable_span:2131034112 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:tag_accessibility_actions:2131034193 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:view_tree_on_back_pressed_dispatcher_owner:2131034211 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:report_drawn:2131034190 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:notification_tiles:2131165195 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:btn_tile_flashlight:2131034159 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:btn_tile_dnd:2131034158 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:btn_tile_rotation_lock:2131034161 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:btn_tile_wellbeing:2131034162 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:btn_tile_github:2131034160 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:bg_tile_circle_active:2130968581 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:bg_tile_circle:2130968580 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:notification_volume:2131165196 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:btn_vol_down:2131034164 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:ic_app_logo:2130968585 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:notification_orientation:2131165190 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:btn_orient_portrait:2131034156 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:btn_orient_land_right:2131034155 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:btn_orient_land_left:2131034154 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:btn_orient_upside:2131034157 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:pooling_container_listener_holder_tag:2131034188 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:ic_tile_vol_up:2130968602 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:ic_tile_vol_down:2130968601 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:ic_tile_wellbeing:2130968603 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:ic_tile_github:2130968598 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:ic_tile_flashlight:2130968597 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:ic_tile_dnd:2130968596 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:ic_tile_quick_note:2130968599 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:ic_tile_rotation:2130968600 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:widget_down:2131165197 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:is_pooling_container_tag:2131034179 reachable: referenced from /home/prince/ProjectsMain/Akr-Volume trigger/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+@attr/alpha : reachable=true
 @attr/font : reachable=false
 @attr/fontProviderAuthority : reachable=false
 @attr/fontProviderCerts : reachable=false
@@ -19,7 +111,7 @@ Marking string:androidx_startup:2131230720 reachable: referenced from /home/prin
 @attr/fontStyle : reachable=false
 @attr/fontVariationSettings : reachable=false
 @attr/fontWeight : reachable=false
-@attr/lStar : reachable=false
+@attr/lStar : reachable=true
 @attr/nestedScrollViewStyle : reachable=false
 @attr/queryPatterns : reachable=false
 @attr/shortcutMatchRequired : reachable=false
@@ -31,6 +123,8 @@ Marking string:androidx_startup:2131230720 reachable: referenced from /home/prin
 @color/notification_action_color_filter : reachable=false
     @color/androidx_core_secondary_text_default_material_light
 @color/notification_icon_bg_color : reachable=false
+@color/vector_tint_color : reachable=false
+@color/vector_tint_theme_color : reachable=false
 @color/widget_bg : reachable=false
 @color/widget_icon_tint : reachable=false
 @dimen/compat_button_inset_horizontal_material : reachable=false
@@ -56,9 +150,15 @@ Marking string:androidx_startup:2131230720 reachable: referenced from /home/prin
 @dimen/notification_top_pad : reachable=false
 @dimen/notification_top_pad_large_text : reachable=false
 @drawable/bg_black_round : reachable=false
+@drawable/bg_notification_blue : reachable=false
+@drawable/bg_notification_button : reachable=false
+@drawable/bg_notification_grey : reachable=false
+@drawable/bg_tile_circle : reachable=true
+@drawable/bg_tile_circle_active : reachable=true
 @drawable/bg_white_round : reachable=false
 @drawable/bg_widget_button : reachable=false
     @color/widget_bg
+@drawable/custom_progress_bar : reachable=false
 @drawable/ic_app_logo : reachable=true
 @drawable/ic_btn_minus : reachable=false
 @drawable/ic_btn_plus : reachable=false
@@ -70,8 +170,14 @@ Marking string:androidx_startup:2131230720 reachable: referenced from /home/prin
 @drawable/ic_call_decline_low : reachable=false
 @drawable/ic_logo : reachable=false
 @drawable/ic_logo_card : reachable=false
+@drawable/ic_tile_dnd : reachable=true
+@drawable/ic_tile_flashlight : reachable=true
+@drawable/ic_tile_github : reachable=true
+@drawable/ic_tile_quick_note : reachable=true
+@drawable/ic_tile_rotation : reachable=true
 @drawable/ic_tile_vol_down : reachable=true
 @drawable/ic_tile_vol_up : reachable=true
+@drawable/ic_tile_wellbeing : reachable=true
 @drawable/ic_vol_down : reachable=false
 @drawable/ic_vol_up : reachable=false
 @drawable/notification_action_background : reachable=false
@@ -99,58 +205,74 @@ Marking string:androidx_startup:2131230720 reachable: referenced from /home/prin
 @drawable/notification_tile_bg : reachable=false
     @drawable/notify_panel_notification_icon_bg
 @drawable/notify_panel_notification_icon_bg : reachable=false
-@id/accessibility_action_clickable_span : reachable=false
-@id/accessibility_custom_action_0 : reachable=false
-@id/accessibility_custom_action_1 : reachable=false
-@id/accessibility_custom_action_10 : reachable=false
-@id/accessibility_custom_action_11 : reachable=false
-@id/accessibility_custom_action_12 : reachable=false
-@id/accessibility_custom_action_13 : reachable=false
-@id/accessibility_custom_action_14 : reachable=false
-@id/accessibility_custom_action_15 : reachable=false
-@id/accessibility_custom_action_16 : reachable=false
-@id/accessibility_custom_action_17 : reachable=false
-@id/accessibility_custom_action_18 : reachable=false
-@id/accessibility_custom_action_19 : reachable=false
-@id/accessibility_custom_action_2 : reachable=false
-@id/accessibility_custom_action_20 : reachable=false
-@id/accessibility_custom_action_21 : reachable=false
-@id/accessibility_custom_action_22 : reachable=false
-@id/accessibility_custom_action_23 : reachable=false
-@id/accessibility_custom_action_24 : reachable=false
-@id/accessibility_custom_action_25 : reachable=false
-@id/accessibility_custom_action_26 : reachable=false
-@id/accessibility_custom_action_27 : reachable=false
-@id/accessibility_custom_action_28 : reachable=false
-@id/accessibility_custom_action_29 : reachable=false
-@id/accessibility_custom_action_3 : reachable=false
-@id/accessibility_custom_action_30 : reachable=false
-@id/accessibility_custom_action_31 : reachable=false
-@id/accessibility_custom_action_4 : reachable=false
-@id/accessibility_custom_action_5 : reachable=false
-@id/accessibility_custom_action_6 : reachable=false
-@id/accessibility_custom_action_7 : reachable=false
-@id/accessibility_custom_action_8 : reachable=false
-@id/accessibility_custom_action_9 : reachable=false
+@id/accessibility_action_clickable_span : reachable=true
+@id/accessibility_custom_action_0 : reachable=true
+@id/accessibility_custom_action_1 : reachable=true
+@id/accessibility_custom_action_10 : reachable=true
+@id/accessibility_custom_action_11 : reachable=true
+@id/accessibility_custom_action_12 : reachable=true
+@id/accessibility_custom_action_13 : reachable=true
+@id/accessibility_custom_action_14 : reachable=true
+@id/accessibility_custom_action_15 : reachable=true
+@id/accessibility_custom_action_16 : reachable=true
+@id/accessibility_custom_action_17 : reachable=true
+@id/accessibility_custom_action_18 : reachable=true
+@id/accessibility_custom_action_19 : reachable=true
+@id/accessibility_custom_action_2 : reachable=true
+@id/accessibility_custom_action_20 : reachable=true
+@id/accessibility_custom_action_21 : reachable=true
+@id/accessibility_custom_action_22 : reachable=true
+@id/accessibility_custom_action_23 : reachable=true
+@id/accessibility_custom_action_24 : reachable=true
+@id/accessibility_custom_action_25 : reachable=true
+@id/accessibility_custom_action_26 : reachable=true
+@id/accessibility_custom_action_27 : reachable=true
+@id/accessibility_custom_action_28 : reachable=true
+@id/accessibility_custom_action_29 : reachable=true
+@id/accessibility_custom_action_3 : reachable=true
+@id/accessibility_custom_action_30 : reachable=true
+@id/accessibility_custom_action_31 : reachable=true
+@id/accessibility_custom_action_4 : reachable=true
+@id/accessibility_custom_action_5 : reachable=true
+@id/accessibility_custom_action_6 : reachable=true
+@id/accessibility_custom_action_7 : reachable=true
+@id/accessibility_custom_action_8 : reachable=true
+@id/accessibility_custom_action_9 : reachable=true
 @id/action_container : reachable=false
 @id/action_divider : reachable=false
 @id/action_image : reachable=false
 @id/action_text : reachable=false
 @id/actions : reachable=false
+@id/androidx_compose_ui_view_composition_context : reachable=true
 @id/async : reachable=false
 @id/blocking : reachable=false
 @id/btn_down : reachable=true
+@id/btn_orient_land_left : reachable=true
+@id/btn_orient_land_right : reachable=true
+@id/btn_orient_portrait : reachable=true
+@id/btn_orient_upside : reachable=true
+@id/btn_tile_dnd : reachable=true
+@id/btn_tile_flashlight : reachable=true
+@id/btn_tile_github : reachable=true
+@id/btn_tile_rotation_lock : reachable=true
+@id/btn_tile_wellbeing : reachable=true
 @id/btn_up : reachable=true
 @id/btn_vol_down : reachable=true
 @id/btn_vol_up : reachable=true
 @id/chronometer : reachable=false
+@id/compose_view_saveable_id_tag : reachable=true
+@id/consume_window_insets_tag : reachable=true
+@id/container_quick_tiles : reachable=false
 @id/dialog_button : reachable=false
 @id/edit_text_id : reachable=false
 @id/forever : reachable=false
 @id/hide_ime_id : reachable=false
+@id/hide_in_inspector_tag : reachable=true
 @id/icon : reachable=false
 @id/icon_group : reachable=false
 @id/info : reachable=false
+@id/inspection_slot_table_set : reachable=true
+@id/is_pooling_container_tag : reachable=true
 @id/italic : reachable=false
 @id/line1 : reachable=false
 @id/line3 : reachable=false
@@ -159,26 +281,33 @@ Marking string:androidx_startup:2131230720 reachable: referenced from /home/prin
 @id/notification_background : reachable=false
 @id/notification_main_column : reachable=false
 @id/notification_main_column_container : reachable=false
+@id/pooling_container_listener_holder_tag : reachable=true
+@id/progress_volume : reachable=false
+@id/report_drawn : reachable=true
 @id/right_icon : reachable=false
 @id/right_side : reachable=false
-@id/tag_accessibility_actions : reachable=false
-@id/tag_accessibility_clickable_spans : reachable=false
-@id/tag_accessibility_heading : reachable=false
-@id/tag_accessibility_pane_title : reachable=false
-@id/tag_on_apply_window_listener : reachable=false
+@id/tag_accessibility_actions : reachable=true
+@id/tag_accessibility_clickable_spans : reachable=true
+@id/tag_accessibility_heading : reachable=true
+@id/tag_accessibility_pane_title : reachable=true
+@id/tag_on_apply_window_listener : reachable=true
 @id/tag_on_receive_content_listener : reachable=false
 @id/tag_on_receive_content_mime_types : reachable=false
-@id/tag_screen_reader_focusable : reachable=false
-@id/tag_state_description : reachable=false
+@id/tag_screen_reader_focusable : reachable=true
+@id/tag_state_description : reachable=true
 @id/tag_transition_group : reachable=false
-@id/tag_unhandled_key_event_manager : reachable=false
-@id/tag_unhandled_key_listeners : reachable=false
-@id/tag_window_insets_animation_callback : reachable=false
+@id/tag_unhandled_key_event_manager : reachable=true
+@id/tag_unhandled_key_listeners : reachable=true
+@id/tag_window_insets_animation_callback : reachable=true
 @id/text : reachable=false
 @id/text2 : reachable=false
 @id/time : reachable=false
 @id/title : reachable=false
-@id/view_tree_lifecycle_owner : reachable=false
+@id/view_tree_lifecycle_owner : reachable=true
+@id/view_tree_on_back_pressed_dispatcher_owner : reachable=true
+@id/view_tree_saved_state_registry_owner : reachable=true
+@id/view_tree_view_model_store_owner : reachable=true
+@id/wrapped_composition_tag : reachable=true
 @integer/status_bar_notification_info_maxnum : reachable=false
 @layout/custom_dialog : reachable=false
 @layout/ime_base_split_test_activity : reachable=false
@@ -191,6 +320,18 @@ Marking string:androidx_startup:2131230720 reachable: referenced from /home/prin
     @style/Widget_Compat_NotificationActionContainer
     @dimen/notification_action_icon_size
     @style/Widget_Compat_NotificationActionText
+@layout/notification_control_center : reachable=false
+    @drawable/bg_tile_circle
+    @drawable/ic_tile_vol_down
+    @drawable/custom_progress_bar
+    @drawable/ic_tile_vol_up
+    @drawable/bg_notification_button
+    @drawable/ic_tile_flashlight
+    @drawable/ic_tile_dnd
+    @drawable/ic_tile_rotation
+@layout/notification_orientation : reachable=true
+    @drawable/bg_notification_grey
+    @drawable/bg_notification_button
 @layout/notification_template_custom_big : reachable=false
     @dimen/notification_large_icon_width
     @dimen/notification_large_icon_height
@@ -208,6 +349,17 @@ Marking string:androidx_startup:2131230720 reachable: referenced from /home/prin
     @style/TextAppearance_Compat_Notification_Time
 @layout/notification_template_part_time : reachable=false
     @style/TextAppearance_Compat_Notification_Time
+@layout/notification_tiles : reachable=true
+    @drawable/bg_notification_grey
+    @drawable/bg_notification_button
+    @drawable/ic_tile_flashlight
+    @drawable/ic_tile_dnd
+    @drawable/ic_tile_rotation
+    @drawable/ic_tile_wellbeing
+    @drawable/ic_tile_github
+@layout/notification_volume : reachable=true
+    @drawable/bg_notification_grey
+    @drawable/bg_notification_button
 @layout/widget_down : reachable=true
     @drawable/bg_widget_button
     @drawable/ic_vol_down
@@ -233,11 +385,90 @@ Marking string:androidx_startup:2131230720 reachable: referenced from /home/prin
 @string/call_notification_incoming_text : reachable=false
 @string/call_notification_ongoing_text : reachable=false
 @string/call_notification_screening_text : reachable=false
+@string/close_drawer : reachable=false
+@string/close_sheet : reachable=false
+@string/default_error_message : reachable=true
+@string/default_popup_window_title : reachable=true
+@string/dropdown_menu : reachable=false
+@string/in_progress : reachable=true
+@string/indeterminate : reachable=true
+@string/m3c_bottom_sheet_collapse_description : reachable=false
+@string/m3c_bottom_sheet_dismiss_description : reachable=false
+@string/m3c_bottom_sheet_drag_handle_description : reachable=false
+@string/m3c_bottom_sheet_expand_description : reachable=false
+@string/m3c_bottom_sheet_pane_title : reachable=false
+@string/m3c_date_input_headline : reachable=false
+@string/m3c_date_input_headline_description : reachable=false
+@string/m3c_date_input_invalid_for_pattern : reachable=false
+@string/m3c_date_input_invalid_not_allowed : reachable=false
+@string/m3c_date_input_invalid_year_range : reachable=false
+@string/m3c_date_input_label : reachable=false
+@string/m3c_date_input_no_input_description : reachable=false
+@string/m3c_date_input_title : reachable=false
+@string/m3c_date_picker_headline : reachable=false
+@string/m3c_date_picker_headline_description : reachable=false
+@string/m3c_date_picker_navigate_to_year_description : reachable=false
+@string/m3c_date_picker_no_selection_description : reachable=false
+@string/m3c_date_picker_scroll_to_earlier_years : reachable=false
+@string/m3c_date_picker_scroll_to_later_years : reachable=false
+@string/m3c_date_picker_switch_to_calendar_mode : reachable=false
+@string/m3c_date_picker_switch_to_day_selection : reachable=false
+@string/m3c_date_picker_switch_to_input_mode : reachable=false
+@string/m3c_date_picker_switch_to_next_month : reachable=false
+@string/m3c_date_picker_switch_to_previous_month : reachable=false
+@string/m3c_date_picker_switch_to_year_selection : reachable=false
+@string/m3c_date_picker_title : reachable=false
+@string/m3c_date_picker_today_description : reachable=false
+@string/m3c_date_picker_year_picker_pane_title : reachable=false
+@string/m3c_date_range_input_invalid_range_input : reachable=false
+@string/m3c_date_range_input_title : reachable=false
+@string/m3c_date_range_picker_day_in_range : reachable=false
+@string/m3c_date_range_picker_end_headline : reachable=false
+@string/m3c_date_range_picker_scroll_to_next_month : reachable=false
+@string/m3c_date_range_picker_scroll_to_previous_month : reachable=false
+@string/m3c_date_range_picker_start_headline : reachable=false
+@string/m3c_date_range_picker_title : reachable=false
+@string/m3c_dialog : reachable=false
+@string/m3c_dropdown_menu_collapsed : reachable=false
+@string/m3c_dropdown_menu_expanded : reachable=false
+@string/m3c_search_bar_search : reachable=false
+@string/m3c_snackbar_dismiss : reachable=false
+@string/m3c_suggestions_available : reachable=false
+@string/m3c_time_picker_am : reachable=false
+@string/m3c_time_picker_hour : reachable=false
+@string/m3c_time_picker_hour_24h_suffix : reachable=false
+@string/m3c_time_picker_hour_selection : reachable=false
+@string/m3c_time_picker_hour_suffix : reachable=false
+@string/m3c_time_picker_hour_text_field : reachable=false
+@string/m3c_time_picker_minute : reachable=false
+@string/m3c_time_picker_minute_selection : reachable=false
+@string/m3c_time_picker_minute_suffix : reachable=false
+@string/m3c_time_picker_minute_text_field : reachable=false
+@string/m3c_time_picker_period_toggle_description : reachable=false
+@string/m3c_time_picker_pm : reachable=false
+@string/m3c_tooltip_long_press_label : reachable=false
+@string/m3c_tooltip_pane_description : reachable=false
+@string/navigation_menu : reachable=false
+@string/not_selected : reachable=true
+@string/off : reachable=true
+@string/on : reachable=true
+@string/range_end : reachable=false
+@string/range_start : reachable=false
+@string/selected : reachable=true
 @string/status_bar_notification_info_overflow : reachable=false
+@string/switch_role : reachable=true
+@string/tab : reachable=true
+@string/template_percent : reachable=true
+@string/tooltip_description : reachable=false
+@string/tooltip_label : reachable=false
 @string/vol_down_content_desc : reachable=false
 @string/vol_up_content_desc : reachable=false
 @string/widget_down_label : reachable=true
 @string/widget_up_label : reachable=true
+@style/DialogWindowTheme : reachable=false
+@style/FloatingDialogTheme : reachable=false
+@style/FloatingDialogWindowTheme : reachable=false
+    @style/FloatingDialogTheme
 @style/TextAppearance_Compat_Notification : reachable=false
 @style/TextAppearance_Compat_Notification_Info : reachable=false
 @style/TextAppearance_Compat_Notification_Line2 : reachable=false
@@ -257,74 +488,19 @@ Marking string:androidx_startup:2131230720 reachable: referenced from /home/prin
     @layout/widget_volume
 
 The root reachable resources are:
- drawable:ic_app_logo:2130968579
- drawable:ic_tile_vol_down:2130968590
- drawable:ic_tile_vol_up:2130968591
- id:btn_down:2131034152
- id:btn_up:2131034153
- id:btn_vol_down:2131034154
- id:btn_vol_up:2131034155
- layout:widget_down:2131165193
- layout:widget_up:2131165194
- layout:widget_volume:2131165195
- string:androidx_startup:2131230720
- string:app_name:2131230721
- string:widget_down_label:2131230732
- string:widget_up_label:2131230733
- xml:widget_down_info:2131427328
- xml:widget_up_info:2131427329
- xml:widget_volume_info:2131427330
-Unused resources are: 
- color:androidx_core_ripple_material_light:2130837504
- color:androidx_core_secondary_text_default_material_light:2130837505
- color:call_notification_answer_color:2130837506
- color:call_notification_decline_color:2130837507
- color:notification_action_color_filter:2130837508
- color:notification_icon_bg_color:2130837509
- color:widget_icon_tint:2130837511
- dimen:compat_button_inset_horizontal_material:2130903040
- dimen:compat_button_inset_vertical_material:2130903041
- dimen:compat_button_padding_horizontal_material:2130903042
- dimen:compat_button_padding_vertical_material:2130903043
- dimen:compat_control_corner_material:2130903044
- dimen:compat_notification_large_icon_max_height:2130903045
- dimen:compat_notification_large_icon_max_width:2130903046
- dimen:notification_action_icon_size:2130903047
- dimen:notification_action_text_size:2130903048
- dimen:notification_big_circle_margin:2130903049
- dimen:notification_content_margin_start:2130903050
- dimen:notification_large_icon_height:2130903051
- dimen:notification_large_icon_width:2130903052
- dimen:notification_main_column_padding_top:2130903053
- dimen:notification_media_narrow_margin:2130903054
- dimen:notification_right_icon_size:2130903055
- dimen:notification_right_side_padding_top:2130903056
- dimen:notification_small_icon_background_padding:2130903057
- dimen:notification_small_icon_size_as_large:2130903058
- dimen:notification_subtext_size:2130903059
- dimen:notification_top_pad:2130903060
- dimen:notification_top_pad_large_text:2130903061
- drawable:bg_white_round:2130968577
- drawable:ic_call_answer:2130968582
- drawable:ic_call_answer_low:2130968583
- drawable:ic_call_answer_video:2130968584
- drawable:ic_call_answer_video_low:2130968585
- drawable:ic_call_decline:2130968586
- drawable:ic_call_decline_low:2130968587
- drawable:ic_logo:2130968588
- drawable:notification_action_background:2130968594
- drawable:notification_bg:2130968595
- drawable:notification_bg_low:2130968596
- drawable:notification_bg_low_normal:2130968597
- drawable:notification_bg_low_pressed:2130968598
- drawable:notification_bg_normal:2130968599
- drawable:notification_bg_normal_pressed:2130968600
- drawable:notification_icon_background:2130968601
- drawable:notification_oversize_large_icon_bg:2130968602
- drawable:notification_template_icon_bg:2130968603
- drawable:notification_template_icon_low_bg:2130968604
- drawable:notification_tile_bg:2130968605
- drawable:notify_panel_notification_icon_bg:2130968606
+ attr:alpha:2130771968
+ attr:lStar:2130771981
+ drawable:bg_tile_circle:2130968580
+ drawable:bg_tile_circle_active:2130968581
+ drawable:ic_app_logo:2130968585
+ drawable:ic_tile_dnd:2130968596
+ drawable:ic_tile_flashlight:2130968597
+ drawable:ic_tile_github:2130968598
+ drawable:ic_tile_quick_note:2130968599
+ drawable:ic_tile_rotation:2130968600
+ drawable:ic_tile_vol_down:2130968601
+ drawable:ic_tile_vol_up:2130968602
+ drawable:ic_tile_wellbeing:2130968603
  id:accessibility_action_clickable_span:2131034112
  id:accessibility_custom_action_0:2131034113
  id:accessibility_custom_action_1:2131034114
@@ -358,59 +534,166 @@ Unused resources are:
  id:accessibility_custom_action_7:2131034142
  id:accessibility_custom_action_8:2131034143
  id:accessibility_custom_action_9:2131034144
+ id:androidx_compose_ui_view_composition_context:2131034150
+ id:btn_down:2131034153
+ id:btn_orient_land_left:2131034154
+ id:btn_orient_land_right:2131034155
+ id:btn_orient_portrait:2131034156
+ id:btn_orient_upside:2131034157
+ id:btn_tile_dnd:2131034158
+ id:btn_tile_flashlight:2131034159
+ id:btn_tile_github:2131034160
+ id:btn_tile_rotation_lock:2131034161
+ id:btn_tile_wellbeing:2131034162
+ id:btn_up:2131034163
+ id:btn_vol_down:2131034164
+ id:btn_vol_up:2131034165
+ id:compose_view_saveable_id_tag:2131034167
+ id:consume_window_insets_tag:2131034168
+ id:hide_in_inspector_tag:2131034174
+ id:inspection_slot_table_set:2131034178
+ id:is_pooling_container_tag:2131034179
+ id:pooling_container_listener_holder_tag:2131034188
+ id:report_drawn:2131034190
+ id:tag_accessibility_actions:2131034193
+ id:tag_accessibility_clickable_spans:2131034194
+ id:tag_accessibility_heading:2131034195
+ id:tag_accessibility_pane_title:2131034196
+ id:tag_on_apply_window_listener:2131034197
+ id:tag_screen_reader_focusable:2131034200
+ id:tag_state_description:2131034201
+ id:tag_unhandled_key_event_manager:2131034203
+ id:tag_unhandled_key_listeners:2131034204
+ id:tag_window_insets_animation_callback:2131034205
+ id:view_tree_lifecycle_owner:2131034210
+ id:view_tree_on_back_pressed_dispatcher_owner:2131034211
+ id:view_tree_saved_state_registry_owner:2131034212
+ id:view_tree_view_model_store_owner:2131034213
+ id:wrapped_composition_tag:2131034214
+ layout:notification_orientation:2131165190
+ layout:notification_tiles:2131165195
+ layout:notification_volume:2131165196
+ layout:widget_down:2131165197
+ layout:widget_up:2131165198
+ layout:widget_volume:2131165199
+ string:androidx_startup:2131230720
+ string:app_name:2131230721
+ string:default_error_message:2131230731
+ string:default_popup_window_title:2131230732
+ string:in_progress:2131230734
+ string:indeterminate:2131230735
+ string:not_selected:2131230793
+ string:off:2131230794
+ string:on:2131230795
+ string:selected:2131230798
+ string:switch_role:2131230800
+ string:tab:2131230801
+ string:template_percent:2131230802
+ string:widget_down_label:2131230807
+ string:widget_up_label:2131230808
+ xml:widget_down_info:2131427328
+ xml:widget_up_info:2131427329
+ xml:widget_volume_info:2131427330
+Unused resources are: 
+ color:androidx_core_ripple_material_light:2130837504
+ color:androidx_core_secondary_text_default_material_light:2130837505
+ color:call_notification_answer_color:2130837506
+ color:call_notification_decline_color:2130837507
+ color:notification_action_color_filter:2130837508
+ color:notification_icon_bg_color:2130837509
+ color:vector_tint_color:2130837510
+ color:vector_tint_theme_color:2130837511
+ color:widget_icon_tint:2130837513
+ dimen:compat_button_inset_horizontal_material:2130903040
+ dimen:compat_button_inset_vertical_material:2130903041
+ dimen:compat_button_padding_horizontal_material:2130903042
+ dimen:compat_button_padding_vertical_material:2130903043
+ dimen:compat_control_corner_material:2130903044
+ dimen:compat_notification_large_icon_max_height:2130903045
+ dimen:compat_notification_large_icon_max_width:2130903046
+ dimen:notification_action_icon_size:2130903047
+ dimen:notification_action_text_size:2130903048
+ dimen:notification_big_circle_margin:2130903049
+ dimen:notification_content_margin_start:2130903050
+ dimen:notification_large_icon_height:2130903051
+ dimen:notification_large_icon_width:2130903052
+ dimen:notification_main_column_padding_top:2130903053
+ dimen:notification_media_narrow_margin:2130903054
+ dimen:notification_right_icon_size:2130903055
+ dimen:notification_right_side_padding_top:2130903056
+ dimen:notification_small_icon_background_padding:2130903057
+ dimen:notification_small_icon_size_as_large:2130903058
+ dimen:notification_subtext_size:2130903059
+ dimen:notification_top_pad:2130903060
+ dimen:notification_top_pad_large_text:2130903061
+ drawable:bg_notification_blue:2130968577
+ drawable:bg_white_round:2130968582
+ drawable:custom_progress_bar:2130968584
+ drawable:ic_call_answer:2130968588
+ drawable:ic_call_answer_low:2130968589
+ drawable:ic_call_answer_video:2130968590
+ drawable:ic_call_answer_video_low:2130968591
+ drawable:ic_call_decline:2130968592
+ drawable:ic_call_decline_low:2130968593
+ drawable:ic_logo:2130968594
+ drawable:notification_action_background:2130968606
+ drawable:notification_bg:2130968607
+ drawable:notification_bg_low:2130968608
+ drawable:notification_bg_low_normal:2130968609
+ drawable:notification_bg_low_pressed:2130968610
+ drawable:notification_bg_normal:2130968611
+ drawable:notification_bg_normal_pressed:2130968612
+ drawable:notification_icon_background:2130968613
+ drawable:notification_oversize_large_icon_bg:2130968614
+ drawable:notification_template_icon_bg:2130968615
+ drawable:notification_template_icon_low_bg:2130968616
+ drawable:notification_tile_bg:2130968617
+ drawable:notify_panel_notification_icon_bg:2130968618
  id:action_container:2131034145
  id:action_divider:2131034146
  id:action_image:2131034147
  id:action_text:2131034148
  id:actions:2131034149
- id:async:2131034150
- id:blocking:2131034151
- id:chronometer:2131034156
- id:dialog_button:2131034157
- id:edit_text_id:2131034158
- id:forever:2131034159
- id:hide_ime_id:2131034160
- id:icon:2131034161
- id:icon_group:2131034162
- id:info:2131034163
- id:italic:2131034164
- id:line1:2131034165
- id:line3:2131034166
- id:logo_card:2131034167
- id:normal:2131034168
- id:notification_background:2131034169
- id:notification_main_column:2131034170
- id:notification_main_column_container:2131034171
- id:right_icon:2131034172
- id:right_side:2131034173
- id:tag_accessibility_actions:2131034174
- id:tag_accessibility_clickable_spans:2131034175
- id:tag_accessibility_heading:2131034176
- id:tag_accessibility_pane_title:2131034177
- id:tag_on_apply_window_listener:2131034178
- id:tag_on_receive_content_listener:2131034179
- id:tag_on_receive_content_mime_types:2131034180
- id:tag_screen_reader_focusable:2131034181
- id:tag_state_description:2131034182
- id:tag_transition_group:2131034183
- id:tag_unhandled_key_event_manager:2131034184
- id:tag_unhandled_key_listeners:2131034185
- id:tag_window_insets_animation_callback:2131034186
- id:text:2131034187
- id:text2:2131034188
- id:time:2131034189
- id:title:2131034190
- id:view_tree_lifecycle_owner:2131034191
+ id:async:2131034151
+ id:blocking:2131034152
+ id:chronometer:2131034166
+ id:container_quick_tiles:2131034169
+ id:dialog_button:2131034170
+ id:edit_text_id:2131034171
+ id:forever:2131034172
+ id:hide_ime_id:2131034173
+ id:icon:2131034175
+ id:icon_group:2131034176
+ id:info:2131034177
+ id:italic:2131034180
+ id:line1:2131034181
+ id:line3:2131034182
+ id:logo_card:2131034183
+ id:normal:2131034184
+ id:notification_background:2131034185
+ id:notification_main_column:2131034186
+ id:notification_main_column_container:2131034187
+ id:progress_volume:2131034189
+ id:right_icon:2131034191
+ id:right_side:2131034192
+ id:tag_on_receive_content_listener:2131034198
+ id:tag_on_receive_content_mime_types:2131034199
+ id:tag_transition_group:2131034202
+ id:text:2131034206
+ id:text2:2131034207
+ id:time:2131034208
+ id:title:2131034209
  integer:status_bar_notification_info_maxnum:2131099648
  layout:custom_dialog:2131165184
  layout:ime_base_split_test_activity:2131165185
  layout:ime_secondary_split_test_activity:2131165186
  layout:notification_action:2131165187
  layout:notification_action_tombstone:2131165188
- layout:notification_template_custom_big:2131165189
- layout:notification_template_icon_group:2131165190
- layout:notification_template_part_chronometer:2131165191
- layout:notification_template_part_time:2131165192
+ layout:notification_control_center:2131165189
+ layout:notification_template_custom_big:2131165191
+ layout:notification_template_icon_group:2131165192
+ layout:notification_template_part_chronometer:2131165193
+ layout:notification_template_part_time:2131165194
  string:call_notification_answer_action:2131230722
  string:call_notification_answer_video_action:2131230723
  string:call_notification_decline_action:2131230724
@@ -418,11 +701,78 @@ Unused resources are:
  string:call_notification_incoming_text:2131230726
  string:call_notification_ongoing_text:2131230727
  string:call_notification_screening_text:2131230728
- string:status_bar_notification_info_overflow:2131230729
- style:TextAppearance_Compat_Notification:2131296256
- style:TextAppearance_Compat_Notification_Info:2131296257
- style:TextAppearance_Compat_Notification_Line2:2131296258
- style:TextAppearance_Compat_Notification_Time:2131296259
- style:TextAppearance_Compat_Notification_Title:2131296260
- style:Widget_Compat_NotificationActionContainer:2131296261
- style:Widget_Compat_NotificationActionText:2131296262
+ string:close_drawer:2131230729
+ string:close_sheet:2131230730
+ string:dropdown_menu:2131230733
+ string:m3c_bottom_sheet_collapse_description:2131230736
+ string:m3c_bottom_sheet_dismiss_description:2131230737
+ string:m3c_bottom_sheet_drag_handle_description:2131230738
+ string:m3c_bottom_sheet_expand_description:2131230739
+ string:m3c_bottom_sheet_pane_title:2131230740
+ string:m3c_date_input_headline:2131230741
+ string:m3c_date_input_headline_description:2131230742
+ string:m3c_date_input_invalid_for_pattern:2131230743
+ string:m3c_date_input_invalid_not_allowed:2131230744
+ string:m3c_date_input_invalid_year_range:2131230745
+ string:m3c_date_input_label:2131230746
+ string:m3c_date_input_no_input_description:2131230747
+ string:m3c_date_input_title:2131230748
+ string:m3c_date_picker_headline:2131230749
+ string:m3c_date_picker_headline_description:2131230750
+ string:m3c_date_picker_navigate_to_year_description:2131230751
+ string:m3c_date_picker_no_selection_description:2131230752
+ string:m3c_date_picker_scroll_to_earlier_years:2131230753
+ string:m3c_date_picker_scroll_to_later_years:2131230754
+ string:m3c_date_picker_switch_to_calendar_mode:2131230755
+ string:m3c_date_picker_switch_to_day_selection:2131230756
+ string:m3c_date_picker_switch_to_input_mode:2131230757
+ string:m3c_date_picker_switch_to_next_month:2131230758
+ string:m3c_date_picker_switch_to_previous_month:2131230759
+ string:m3c_date_picker_switch_to_year_selection:2131230760
+ string:m3c_date_picker_title:2131230761
+ string:m3c_date_picker_today_description:2131230762
+ string:m3c_date_picker_year_picker_pane_title:2131230763
+ string:m3c_date_range_input_invalid_range_input:2131230764
+ string:m3c_date_range_input_title:2131230765
+ string:m3c_date_range_picker_day_in_range:2131230766
+ string:m3c_date_range_picker_end_headline:2131230767
+ string:m3c_date_range_picker_scroll_to_next_month:2131230768
+ string:m3c_date_range_picker_scroll_to_previous_month:2131230769
+ string:m3c_date_range_picker_start_headline:2131230770
+ string:m3c_date_range_picker_title:2131230771
+ string:m3c_dialog:2131230772
+ string:m3c_dropdown_menu_collapsed:2131230773
+ string:m3c_dropdown_menu_expanded:2131230774
+ string:m3c_search_bar_search:2131230775
+ string:m3c_snackbar_dismiss:2131230776
+ string:m3c_suggestions_available:2131230777
+ string:m3c_time_picker_am:2131230778
+ string:m3c_time_picker_hour:2131230779
+ string:m3c_time_picker_hour_24h_suffix:2131230780
+ string:m3c_time_picker_hour_selection:2131230781
+ string:m3c_time_picker_hour_suffix:2131230782
+ string:m3c_time_picker_hour_text_field:2131230783
+ string:m3c_time_picker_minute:2131230784
+ string:m3c_time_picker_minute_selection:2131230785
+ string:m3c_time_picker_minute_suffix:2131230786
+ string:m3c_time_picker_minute_text_field:2131230787
+ string:m3c_time_picker_period_toggle_description:2131230788
+ string:m3c_time_picker_pm:2131230789
+ string:m3c_tooltip_long_press_label:2131230790
+ string:m3c_tooltip_pane_description:2131230791
+ string:navigation_menu:2131230792
+ string:range_end:2131230796
+ string:range_start:2131230797
+ string:status_bar_notification_info_overflow:2131230799
+ string:tooltip_description:2131230803
+ string:tooltip_label:2131230804
+ style:DialogWindowTheme:2131296256
+ style:FloatingDialogTheme:2131296257
+ style:FloatingDialogWindowTheme:2131296258
+ style:TextAppearance_Compat_Notification:2131296259
+ style:TextAppearance_Compat_Notification_Info:2131296260
+ style:TextAppearance_Compat_Notification_Line2:2131296261
+ style:TextAppearance_Compat_Notification_Time:2131296262
+ style:TextAppearance_Compat_Notification_Title:2131296263
+ style:Widget_Compat_NotificationActionContainer:2131296264
+ style:Widget_Compat_NotificationActionText:2131296265

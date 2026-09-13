@@ -8,6 +8,13 @@
         android:minSdkVersion="24"
         android:targetSdkVersion="35" />
 
+    <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_SPECIAL_USE" />
+
     <permission
         android:name="com.voltrigger.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
@@ -84,10 +91,96 @@
             </intent-filter>
         </service>
 
+        <activity
+            android:name="com.voltrigger.MainActivity"
+            android:exported="true"
+            android:theme="@android:style/Theme.DeviceDefault.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.voltrigger.ui.QuickNoteActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <service
+            android:name="com.voltrigger.tiles.DigitalWellbeingTileService"
+            android:exported="true"
+            android:icon="@drawable/ic_tile_wellbeing"
+            android:label="Digital Wellbeing"
+            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" >
+            <intent-filter>
+                <action android:name="android.service.quicksettings.action.QS_TILE" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.voltrigger.tiles.GithubProfileTileService"
+            android:exported="true"
+            android:icon="@drawable/ic_tile_github"
+            android:label="GitHub Profile"
+            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" >
+            <intent-filter>
+                <action android:name="android.service.quicksettings.action.QS_TILE" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.voltrigger.tiles.FlashlightTileService"
+            android:exported="true"
+            android:icon="@drawable/ic_tile_flashlight"
+            android:label="Flashlight"
+            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" >
+            <intent-filter>
+                <action android:name="android.service.quicksettings.action.QS_TILE" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.voltrigger.tiles.DndToggleTileService"
+            android:exported="true"
+            android:icon="@drawable/ic_tile_dnd"
+            android:label="Do Not Disturb"
+            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" >
+            <intent-filter>
+                <action android:name="android.service.quicksettings.action.QS_TILE" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.voltrigger.tiles.QuickNoteTileService"
+            android:exported="true"
+            android:icon="@drawable/ic_tile_quick_note"
+            android:label="Quick Note"
+            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" >
+            <intent-filter>
+                <action android:name="android.service.quicksettings.action.QS_TILE" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.voltrigger.tiles.RotationLockTileService"
+            android:exported="true"
+            android:icon="@drawable/ic_tile_rotation"
+            android:label="Rotation Lock"
+            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" >
+            <intent-filter>
+                <action android:name="android.service.quicksettings.action.QS_TILE" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.voltrigger.services.ControlNotificationService"
+            android:exported="false"
+            android:foregroundServiceType="specialUse" />
+
         <provider
             android:name="androidx.startup.InitializationProvider"
             android:authorities="com.voltrigger.androidx-startup"
             android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
             <meta-data
                 android:name="androidx.profileinstaller.ProfileInstallerInitializer"
                 android:value="androidx.startup" />

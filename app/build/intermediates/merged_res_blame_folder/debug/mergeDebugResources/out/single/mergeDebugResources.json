@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/drawable_bg_tile_circle_active.xml.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/drawable/bg_tile_circle_active.xml"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/drawable_bg_notification_blue.xml.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/drawable/bg_notification_blue.xml"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/layout_widget_down.xml.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/layout/widget_down.xml"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/drawable_ic_btn_plus.png.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/drawable/ic_btn_plus.png"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/drawable_bg_black_round.xml.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/drawable/bg_black_round.xml"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/drawable_ic_app_logo.png.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/drawable/ic_app_logo.png"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/layout_notification_orientation.xml.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/layout/notification_orientation.xml"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/layout_widget_up.xml.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/layout/widget_up.xml"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/drawable_ic_tile_dnd.xml.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/drawable/ic_tile_dnd.xml"
+    },
+    {
+        "merged": "com.voltrigger.app-debug-47:/layout_notification_volume.xml.flat",
+        "source": "com.voltrigger.app-main-49:/layout/notification_volume.xml"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/drawable_ic_vol_up.png.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/drawable/ic_vol_up.png"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/drawable_custom_progress_bar.xml.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/drawable/custom_progress_bar.xml"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/drawable_ic_tile_vol_down.png.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/drawable/ic_tile_vol_down.png"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/layout_notification_tiles.xml.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/layout/notification_tiles.xml"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/layout_notification_control_center.xml.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/layout/notification_control_center.xml"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/drawable_bg_notification_grey.xml.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/drawable/bg_notification_grey.xml"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/drawable_ic_vol_down.png.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/drawable/ic_vol_down.png"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/drawable_ic_tile_vol_up.png.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/drawable/ic_tile_vol_up.png"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/drawable_bg_widget_button.xml.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/drawable/bg_widget_button.xml"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/drawable_bg_white_round.xml.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/drawable/bg_white_round.xml"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/drawable_ic_logo_card.png.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/drawable/ic_logo_card.png"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/layout_widget_volume.xml.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/layout/widget_volume.xml"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/drawable_bg_notification_button.xml.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/drawable/bg_notification_button.xml"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/drawable_ic_tile_flashlight.xml.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/drawable/ic_tile_flashlight.xml"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/layout_notification_volume.xml.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/layout/notification_volume.xml"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/drawable_bg_tile_circle.xml.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/drawable/bg_tile_circle.xml"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/drawable_ic_btn_minus.png.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/drawable/ic_btn_minus.png"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/drawable_ic_tile_rotation.xml.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/drawable/ic_tile_rotation.xml"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/drawable_ic_tile_wellbeing.xml.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/drawable/ic_tile_wellbeing.xml"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/drawable_ic_tile_quick_note.xml.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/drawable/ic_tile_quick_note.xml"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/xml_widget_volume_info.xml.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/xml/widget_volume_info.xml"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/drawable_ic_tile_github.xml.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/drawable/ic_tile_github.xml"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/xml_widget_up_info.xml.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/xml/widget_up_info.xml"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/drawable_ic_logo.png.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/drawable/ic_logo.png"
+    },
+    {
+        "merged": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-debug-47:/xml_widget_down_info.xml.flat",
+        "source": "/home/prince/.gradle/daemon/9.4.0/com.voltrigger.app-main-49:/xml/widget_down_info.xml"
+    }
+]
